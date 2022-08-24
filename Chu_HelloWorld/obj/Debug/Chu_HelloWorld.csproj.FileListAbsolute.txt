@@ -1,0 +1,8 @@
+C:\Users\maxwe\Desktop\IGME 201\Chu_HelloWorld\bin\Debug\Chu_HelloWorld.exe.config
+C:\Users\maxwe\Desktop\IGME 201\Chu_HelloWorld\bin\Debug\Chu_HelloWorld.exe
+C:\Users\maxwe\Desktop\IGME 201\Chu_HelloWorld\bin\Debug\Chu_HelloWorld.pdb
+C:\Users\maxwe\Desktop\IGME 201\Chu_HelloWorld\obj\Debug\Chu_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_HelloWorld\obj\Debug\Chu_HelloWorld.csproj.SuggestedBindingRedirects.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_HelloWorld\obj\Debug\Chu_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_HelloWorld\obj\Debug\Chu_HelloWorld.exe
+C:\Users\maxwe\Desktop\IGME 201\Chu_HelloWorld\obj\Debug\Chu_HelloWorld.pdb
