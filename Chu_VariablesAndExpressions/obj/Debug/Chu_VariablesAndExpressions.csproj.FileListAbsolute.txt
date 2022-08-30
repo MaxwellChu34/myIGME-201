@@ -1,0 +1,8 @@
+C:\Users\maxwe\Desktop\IGME 201\Chu_VariablesAndExpressions\bin\Debug\Chu_VariablesAndExpressions.exe.config
+C:\Users\maxwe\Desktop\IGME 201\Chu_VariablesAndExpressions\bin\Debug\Chu_VariablesAndExpressions.exe
+C:\Users\maxwe\Desktop\IGME 201\Chu_VariablesAndExpressions\bin\Debug\Chu_VariablesAndExpressions.pdb
+C:\Users\maxwe\Desktop\IGME 201\Chu_VariablesAndExpressions\obj\Debug\Chu_VariablesAndExpressions.csproj.AssemblyReference.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_VariablesAndExpressions\obj\Debug\Chu_VariablesAndExpressions.csproj.SuggestedBindingRedirects.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_VariablesAndExpressions\obj\Debug\Chu_VariablesAndExpressions.csproj.CoreCompileInputs.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_VariablesAndExpressions\obj\Debug\Chu_VariablesAndExpressions.exe
+C:\Users\maxwe\Desktop\IGME 201\Chu_VariablesAndExpressions\obj\Debug\Chu_VariablesAndExpressions.pdb
