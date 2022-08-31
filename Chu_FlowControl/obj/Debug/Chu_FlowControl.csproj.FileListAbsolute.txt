@@ -1,0 +1,8 @@
+C:\Users\maxwe\Desktop\IGME 201\Chu_FlowControl\bin\Debug\Chu_FlowControl.exe.config
+C:\Users\maxwe\Desktop\IGME 201\Chu_FlowControl\bin\Debug\Chu_FlowControl.exe
+C:\Users\maxwe\Desktop\IGME 201\Chu_FlowControl\bin\Debug\Chu_FlowControl.pdb
+C:\Users\maxwe\Desktop\IGME 201\Chu_FlowControl\obj\Debug\Chu_FlowControl.csproj.AssemblyReference.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_FlowControl\obj\Debug\Chu_FlowControl.csproj.SuggestedBindingRedirects.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_FlowControl\obj\Debug\Chu_FlowControl.csproj.CoreCompileInputs.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_FlowControl\obj\Debug\Chu_FlowControl.exe
+C:\Users\maxwe\Desktop\IGME 201\Chu_FlowControl\obj\Debug\Chu_FlowControl.pdb
