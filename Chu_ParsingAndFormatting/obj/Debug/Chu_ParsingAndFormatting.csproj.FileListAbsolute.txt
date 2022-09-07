@@ -1,0 +1,8 @@
+C:\Users\maxwe\Desktop\IGME 201\Chu_ParsingAndFormatting\bin\Debug\Chu_ParsingAndFormatting.exe.config
+C:\Users\maxwe\Desktop\IGME 201\Chu_ParsingAndFormatting\bin\Debug\Chu_ParsingAndFormatting.exe
+C:\Users\maxwe\Desktop\IGME 201\Chu_ParsingAndFormatting\bin\Debug\Chu_ParsingAndFormatting.pdb
+C:\Users\maxwe\Desktop\IGME 201\Chu_ParsingAndFormatting\obj\Debug\Chu_ParsingAndFormatting.csproj.AssemblyReference.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_ParsingAndFormatting\obj\Debug\Chu_ParsingAndFormatting.csproj.SuggestedBindingRedirects.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_ParsingAndFormatting\obj\Debug\Chu_ParsingAndFormatting.csproj.CoreCompileInputs.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_ParsingAndFormatting\obj\Debug\Chu_ParsingAndFormatting.exe
+C:\Users\maxwe\Desktop\IGME 201\Chu_ParsingAndFormatting\obj\Debug\Chu_ParsingAndFormatting.pdb
