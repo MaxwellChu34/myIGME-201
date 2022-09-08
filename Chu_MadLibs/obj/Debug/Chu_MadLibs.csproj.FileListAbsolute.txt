@@ -1,0 +1,8 @@
+C:\Users\maxwe\Desktop\IGME 201\Chu_MadLibs\bin\Debug\Chu_MadLibs.exe.config
+C:\Users\maxwe\Desktop\IGME 201\Chu_MadLibs\bin\Debug\Chu_MadLibs.exe
+C:\Users\maxwe\Desktop\IGME 201\Chu_MadLibs\bin\Debug\Chu_MadLibs.pdb
+C:\Users\maxwe\Desktop\IGME 201\Chu_MadLibs\obj\Debug\Chu_MadLibs.csproj.AssemblyReference.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_MadLibs\obj\Debug\Chu_MadLibs.csproj.SuggestedBindingRedirects.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_MadLibs\obj\Debug\Chu_MadLibs.csproj.CoreCompileInputs.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_MadLibs\obj\Debug\Chu_MadLibs.exe
+C:\Users\maxwe\Desktop\IGME 201\Chu_MadLibs\obj\Debug\Chu_MadLibs.pdb
