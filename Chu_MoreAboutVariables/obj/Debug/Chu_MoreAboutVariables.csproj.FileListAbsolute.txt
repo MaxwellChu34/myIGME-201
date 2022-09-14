@@ -1,0 +1,8 @@
+C:\Users\maxwe\Desktop\IGME 201\Chu_MoreAboutVariables\bin\Debug\Chu_MoreAboutVariables.exe.config
+C:\Users\maxwe\Desktop\IGME 201\Chu_MoreAboutVariables\bin\Debug\Chu_MoreAboutVariables.exe
+C:\Users\maxwe\Desktop\IGME 201\Chu_MoreAboutVariables\bin\Debug\Chu_MoreAboutVariables.pdb
+C:\Users\maxwe\Desktop\IGME 201\Chu_MoreAboutVariables\obj\Debug\Chu_MoreAboutVariables.csproj.AssemblyReference.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_MoreAboutVariables\obj\Debug\Chu_MoreAboutVariables.csproj.SuggestedBindingRedirects.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_MoreAboutVariables\obj\Debug\Chu_MoreAboutVariables.csproj.CoreCompileInputs.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_MoreAboutVariables\obj\Debug\Chu_MoreAboutVariables.exe
+C:\Users\maxwe\Desktop\IGME 201\Chu_MoreAboutVariables\obj\Debug\Chu_MoreAboutVariables.pdb
