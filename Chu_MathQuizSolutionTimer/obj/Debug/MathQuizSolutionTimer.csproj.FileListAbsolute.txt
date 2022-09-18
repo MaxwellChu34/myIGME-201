@@ -1,0 +1,8 @@
+C:\Users\maxwe\Desktop\IGME 201\MathQuizSolutionTimer\bin\Debug\MathQuizSolutionTimer.exe.config
+C:\Users\maxwe\Desktop\IGME 201\MathQuizSolutionTimer\bin\Debug\MathQuizSolutionTimer.exe
+C:\Users\maxwe\Desktop\IGME 201\MathQuizSolutionTimer\bin\Debug\MathQuizSolutionTimer.pdb
+C:\Users\maxwe\Desktop\IGME 201\MathQuizSolutionTimer\obj\Debug\MathQuizSolutionTimer.csproj.AssemblyReference.cache
+C:\Users\maxwe\Desktop\IGME 201\MathQuizSolutionTimer\obj\Debug\MathQuizSolutionTimer.csproj.SuggestedBindingRedirects.cache
+C:\Users\maxwe\Desktop\IGME 201\MathQuizSolutionTimer\obj\Debug\MathQuizSolutionTimer.csproj.CoreCompileInputs.cache
+C:\Users\maxwe\Desktop\IGME 201\MathQuizSolutionTimer\obj\Debug\MathQuizSolutionTimer.exe
+C:\Users\maxwe\Desktop\IGME 201\MathQuizSolutionTimer\obj\Debug\MathQuizSolutionTimer.pdb
