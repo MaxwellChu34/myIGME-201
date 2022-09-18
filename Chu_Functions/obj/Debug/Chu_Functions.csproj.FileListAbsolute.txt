@@ -1,0 +1,8 @@
+C:\Users\maxwe\Desktop\IGME 201\Chu_Functions\bin\Debug\Chu_Functions.exe.config
+C:\Users\maxwe\Desktop\IGME 201\Chu_Functions\bin\Debug\Chu_Functions.exe
+C:\Users\maxwe\Desktop\IGME 201\Chu_Functions\bin\Debug\Chu_Functions.pdb
+C:\Users\maxwe\Desktop\IGME 201\Chu_Functions\obj\Debug\Chu_Functions.csproj.AssemblyReference.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_Functions\obj\Debug\Chu_Functions.csproj.SuggestedBindingRedirects.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_Functions\obj\Debug\Chu_Functions.csproj.CoreCompileInputs.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_Functions\obj\Debug\Chu_Functions.exe
+C:\Users\maxwe\Desktop\IGME 201\Chu_Functions\obj\Debug\Chu_Functions.pdb
