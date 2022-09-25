@@ -1,0 +1,8 @@
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT1_3questionsRecreation\bin\Debug\Chu_UT1_3questionsRecreation.exe.config
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT1_3questionsRecreation\bin\Debug\Chu_UT1_3questionsRecreation.exe
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT1_3questionsRecreation\bin\Debug\Chu_UT1_3questionsRecreation.pdb
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT1_3questionsRecreation\obj\Debug\Chu_UT1_3questionsRecreation.csproj.AssemblyReference.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT1_3questionsRecreation\obj\Debug\Chu_UT1_3questionsRecreation.csproj.SuggestedBindingRedirects.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT1_3questionsRecreation\obj\Debug\Chu_UT1_3questionsRecreation.csproj.CoreCompileInputs.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT1_3questionsRecreation\obj\Debug\Chu_UT1_3questionsRecreation.exe
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT1_3questionsRecreation\obj\Debug\Chu_UT1_3questionsRecreation.pdb
