@@ -1,0 +1,8 @@
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT1_RaisesAndSalariesRewritten\bin\Debug\Chu_UT1_RaisesAndSalariesRewritten.exe.config
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT1_RaisesAndSalariesRewritten\bin\Debug\Chu_UT1_RaisesAndSalariesRewritten.exe
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT1_RaisesAndSalariesRewritten\bin\Debug\Chu_UT1_RaisesAndSalariesRewritten.pdb
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT1_RaisesAndSalariesRewritten\obj\Debug\Chu_UT1_RaisesAndSalariesRewritten.csproj.AssemblyReference.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT1_RaisesAndSalariesRewritten\obj\Debug\Chu_UT1_RaisesAndSalariesRewritten.csproj.SuggestedBindingRedirects.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT1_RaisesAndSalariesRewritten\obj\Debug\Chu_UT1_RaisesAndSalariesRewritten.csproj.CoreCompileInputs.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT1_RaisesAndSalariesRewritten\obj\Debug\Chu_UT1_RaisesAndSalariesRewritten.exe
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT1_RaisesAndSalariesRewritten\obj\Debug\Chu_UT1_RaisesAndSalariesRewritten.pdb
