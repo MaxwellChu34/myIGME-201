@@ -1,0 +1,8 @@
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT1_MathQuizEnhanced\bin\Debug\Chu_UT1_MathQuizEnhanced.exe.config
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT1_MathQuizEnhanced\bin\Debug\Chu_UT1_MathQuizEnhanced.exe
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT1_MathQuizEnhanced\bin\Debug\Chu_UT1_MathQuizEnhanced.pdb
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT1_MathQuizEnhanced\obj\Debug\Chu_UT1_MathQuizEnhanced.csproj.AssemblyReference.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT1_MathQuizEnhanced\obj\Debug\Chu_UT1_MathQuizEnhanced.csproj.SuggestedBindingRedirects.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT1_MathQuizEnhanced\obj\Debug\Chu_UT1_MathQuizEnhanced.csproj.CoreCompileInputs.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT1_MathQuizEnhanced\obj\Debug\Chu_UT1_MathQuizEnhanced.exe
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT1_MathQuizEnhanced\obj\Debug\Chu_UT1_MathQuizEnhanced.pdb
