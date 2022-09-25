@@ -1,0 +1,8 @@
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT1_BugSquash\bin\Debug\Chu_UT1_BugSquash.exe.config
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT1_BugSquash\bin\Debug\Chu_UT1_BugSquash.exe
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT1_BugSquash\bin\Debug\Chu_UT1_BugSquash.pdb
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT1_BugSquash\obj\Debug\Chu_UT1_BugSquash.csproj.AssemblyReference.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT1_BugSquash\obj\Debug\Chu_UT1_BugSquash.csproj.SuggestedBindingRedirects.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT1_BugSquash\obj\Debug\Chu_UT1_BugSquash.csproj.CoreCompileInputs.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT1_BugSquash\obj\Debug\Chu_UT1_BugSquash.exe
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT1_BugSquash\obj\Debug\Chu_UT1_BugSquash.pdb
