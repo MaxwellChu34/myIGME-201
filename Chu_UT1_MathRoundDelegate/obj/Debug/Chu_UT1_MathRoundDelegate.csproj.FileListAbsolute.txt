@@ -1,0 +1,8 @@
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT1_MathRoundDelegate\bin\Debug\Chu_UT1_MathRoundDelegate.exe.config
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT1_MathRoundDelegate\bin\Debug\Chu_UT1_MathRoundDelegate.exe
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT1_MathRoundDelegate\bin\Debug\Chu_UT1_MathRoundDelegate.pdb
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT1_MathRoundDelegate\obj\Debug\Chu_UT1_MathRoundDelegate.csproj.AssemblyReference.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT1_MathRoundDelegate\obj\Debug\Chu_UT1_MathRoundDelegate.csproj.SuggestedBindingRedirects.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT1_MathRoundDelegate\obj\Debug\Chu_UT1_MathRoundDelegate.csproj.CoreCompileInputs.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT1_MathRoundDelegate\obj\Debug\Chu_UT1_MathRoundDelegate.exe
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT1_MathRoundDelegate\obj\Debug\Chu_UT1_MathRoundDelegate.pdb
