@@ -1,0 +1,8 @@
+C:\Users\maxwe\Desktop\IGME 201\Chu_DefiningClassMembers\obj\Debug\Chu_DefiningClassMembers.csproj.AssemblyReference.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_DefiningClassMembers\obj\Debug\Chu_DefiningClassMembers.csproj.SuggestedBindingRedirects.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_DefiningClassMembers\obj\Debug\Chu_DefiningClassMembers.csproj.CoreCompileInputs.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_DefiningClassMembers\bin\Debug\Chu_DefiningClassMembers.exe.config
+C:\Users\maxwe\Desktop\IGME 201\Chu_DefiningClassMembers\bin\Debug\Chu_DefiningClassMembers.exe
+C:\Users\maxwe\Desktop\IGME 201\Chu_DefiningClassMembers\bin\Debug\Chu_DefiningClassMembers.pdb
+C:\Users\maxwe\Desktop\IGME 201\Chu_DefiningClassMembers\obj\Debug\Chu_DefiningClassMembers.exe
+C:\Users\maxwe\Desktop\IGME 201\Chu_DefiningClassMembers\obj\Debug\Chu_DefiningClassMembers.pdb
