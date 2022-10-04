@@ -1,0 +1,6 @@
+C:\Users\maxwe\Desktop\IGME 201\CourseLib\obj\Debug\CourseLib.csproj.AssemblyReference.cache
+C:\Users\maxwe\Desktop\IGME 201\CourseLib\obj\Debug\CourseLib.csproj.CoreCompileInputs.cache
+C:\Users\maxwe\Desktop\IGME 201\CourseLib\bin\Debug\CourseLib.dll
+C:\Users\maxwe\Desktop\IGME 201\CourseLib\bin\Debug\CourseLib.pdb
+C:\Users\maxwe\Desktop\IGME 201\CourseLib\obj\Debug\CourseLib.dll
+C:\Users\maxwe\Desktop\IGME 201\CourseLib\obj\Debug\CourseLib.pdb
