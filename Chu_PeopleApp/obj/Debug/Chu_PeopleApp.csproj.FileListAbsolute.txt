@@ -1,0 +1,13 @@
+C:\Users\maxwe\Desktop\IGME 201\Chu_PeopleApp\obj\Debug\Chu_PeopleApp.csproj.AssemblyReference.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_PeopleApp\obj\Debug\Chu_PeopleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_PeopleApp\obj\Debug\Chu_PeopleApp.csproj.CoreCompileInputs.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_PeopleApp\bin\Debug\Chu_PeopleApp.exe.config
+C:\Users\maxwe\Desktop\IGME 201\Chu_PeopleApp\bin\Debug\Chu_PeopleApp.exe
+C:\Users\maxwe\Desktop\IGME 201\Chu_PeopleApp\bin\Debug\Chu_PeopleApp.pdb
+C:\Users\maxwe\Desktop\IGME 201\Chu_PeopleApp\bin\Debug\CourseLib.dll
+C:\Users\maxwe\Desktop\IGME 201\Chu_PeopleApp\bin\Debug\PeopleLib.dll
+C:\Users\maxwe\Desktop\IGME 201\Chu_PeopleApp\bin\Debug\CourseLib.pdb
+C:\Users\maxwe\Desktop\IGME 201\Chu_PeopleApp\bin\Debug\PeopleLib.pdb
+C:\Users\maxwe\Desktop\IGME 201\Chu_PeopleApp\obj\Debug\Chu_PeopleApp.csproj.CopyComplete
+C:\Users\maxwe\Desktop\IGME 201\Chu_PeopleApp\obj\Debug\Chu_PeopleApp.exe
+C:\Users\maxwe\Desktop\IGME 201\Chu_PeopleApp\obj\Debug\Chu_PeopleApp.pdb
