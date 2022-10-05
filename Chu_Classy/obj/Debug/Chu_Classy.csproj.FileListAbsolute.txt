@@ -1,0 +1,8 @@
+C:\Users\maxwe\Desktop\IGME 201\Chu_Classy\bin\Debug\Chu_Classy.exe.config
+C:\Users\maxwe\Desktop\IGME 201\Chu_Classy\bin\Debug\Chu_Classy.exe
+C:\Users\maxwe\Desktop\IGME 201\Chu_Classy\bin\Debug\Chu_Classy.pdb
+C:\Users\maxwe\Desktop\IGME 201\Chu_Classy\obj\Debug\Chu_Classy.csproj.AssemblyReference.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_Classy\obj\Debug\Chu_Classy.csproj.SuggestedBindingRedirects.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_Classy\obj\Debug\Chu_Classy.csproj.CoreCompileInputs.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_Classy\obj\Debug\Chu_Classy.exe
+C:\Users\maxwe\Desktop\IGME 201\Chu_Classy\obj\Debug\Chu_Classy.pdb
