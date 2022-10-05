@@ -1,0 +1,8 @@
+C:\Users\maxwe\Desktop\IGME 201\Chu_PetApp\obj\Debug\Chu_PetApp.csproj.AssemblyReference.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_PetApp\obj\Debug\Chu_PetApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_PetApp\obj\Debug\Chu_PetApp.csproj.CoreCompileInputs.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_PetApp\bin\Debug\Chu_PetApp.exe.config
+C:\Users\maxwe\Desktop\IGME 201\Chu_PetApp\bin\Debug\Chu_PetApp.exe
+C:\Users\maxwe\Desktop\IGME 201\Chu_PetApp\bin\Debug\Chu_PetApp.pdb
+C:\Users\maxwe\Desktop\IGME 201\Chu_PetApp\obj\Debug\Chu_PetApp.exe
+C:\Users\maxwe\Desktop\IGME 201\Chu_PetApp\obj\Debug\Chu_PetApp.pdb
