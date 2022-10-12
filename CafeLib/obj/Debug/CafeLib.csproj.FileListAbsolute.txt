@@ -1,0 +1,6 @@
+C:\Users\maxwe\Desktop\IGME 201\CafeLib\bin\Debug\CafeLib.dll
+C:\Users\maxwe\Desktop\IGME 201\CafeLib\bin\Debug\CafeLib.pdb
+C:\Users\maxwe\Desktop\IGME 201\CafeLib\obj\Debug\CafeLib.csproj.AssemblyReference.cache
+C:\Users\maxwe\Desktop\IGME 201\CafeLib\obj\Debug\CafeLib.csproj.CoreCompileInputs.cache
+C:\Users\maxwe\Desktop\IGME 201\CafeLib\obj\Debug\CafeLib.dll
+C:\Users\maxwe\Desktop\IGME 201\CafeLib\obj\Debug\CafeLib.pdb
