@@ -1,0 +1,8 @@
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT2_Number14\bin\Debug\Chu_UT2_Number14.exe.config
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT2_Number14\bin\Debug\Chu_UT2_Number14.exe
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT2_Number14\bin\Debug\Chu_UT2_Number14.pdb
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT2_Number14\obj\Debug\Chu_UT2_Number14.csproj.AssemblyReference.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT2_Number14\obj\Debug\Chu_UT2_Number14.csproj.SuggestedBindingRedirects.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT2_Number14\obj\Debug\Chu_UT2_Number14.csproj.CoreCompileInputs.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT2_Number14\obj\Debug\Chu_UT2_Number14.exe
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT2_Number14\obj\Debug\Chu_UT2_Number14.pdb
