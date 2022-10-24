@@ -1,0 +1,8 @@
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT2_Number4to7\bin\Debug\Chu_UT2_Number4to7.exe.config
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT2_Number4to7\bin\Debug\Chu_UT2_Number4to7.exe
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT2_Number4to7\bin\Debug\Chu_UT2_Number4to7.pdb
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT2_Number4to7\obj\Debug\Chu_UT2_Number4to7.csproj.AssemblyReference.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT2_Number4to7\obj\Debug\Chu_UT2_Number4to7.csproj.SuggestedBindingRedirects.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT2_Number4to7\obj\Debug\Chu_UT2_Number4to7.csproj.CoreCompileInputs.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT2_Number4to7\obj\Debug\Chu_UT2_Number4to7.exe
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT2_Number4to7\obj\Debug\Chu_UT2_Number4to7.pdb
