@@ -1,0 +1,14 @@
+C:\Users\maxwe\Desktop\IGME 201\EditPerson\obj\Debug\EditPerson.csproj.AssemblyReference.cache
+C:\Users\maxwe\Desktop\IGME 201\EditPerson\obj\Debug\EditPerson.csproj.SuggestedBindingRedirects.cache
+C:\Users\maxwe\Desktop\IGME 201\EditPerson\obj\Debug\EditPerson.PersonEditForm.resources
+C:\Users\maxwe\Desktop\IGME 201\EditPerson\obj\Debug\EditPerson.Properties.Resources.resources
+C:\Users\maxwe\Desktop\IGME 201\EditPerson\obj\Debug\EditPerson.csproj.GenerateResource.cache
+C:\Users\maxwe\Desktop\IGME 201\EditPerson\obj\Debug\EditPerson.csproj.CoreCompileInputs.cache
+C:\Users\maxwe\Desktop\IGME 201\EditPerson\bin\Debug\EditPerson.exe.config
+C:\Users\maxwe\Desktop\IGME 201\EditPerson\bin\Debug\EditPerson.exe
+C:\Users\maxwe\Desktop\IGME 201\EditPerson\bin\Debug\EditPerson.pdb
+C:\Users\maxwe\Desktop\IGME 201\EditPerson\bin\Debug\PeopleLib.dll
+C:\Users\maxwe\Desktop\IGME 201\EditPerson\bin\Debug\PeopleLib.pdb
+C:\Users\maxwe\Desktop\IGME 201\EditPerson\obj\Debug\EditPerson.csproj.CopyComplete
+C:\Users\maxwe\Desktop\IGME 201\EditPerson\obj\Debug\EditPerson.exe
+C:\Users\maxwe\Desktop\IGME 201\EditPerson\obj\Debug\EditPerson.pdb
