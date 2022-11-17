@@ -1,0 +1,12 @@
+C:\Users\maxwe\Desktop\IGME 201\Chu_MultipleForms\bin\Debug\Chu_MultipleForms.exe.config
+C:\Users\maxwe\Desktop\IGME 201\Chu_MultipleForms\bin\Debug\Chu_MultipleForms.exe
+C:\Users\maxwe\Desktop\IGME 201\Chu_MultipleForms\bin\Debug\Chu_MultipleForms.pdb
+C:\Users\maxwe\Desktop\IGME 201\Chu_MultipleForms\obj\Debug\Chu_MultipleForms.csproj.AssemblyReference.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_MultipleForms\obj\Debug\Chu_MultipleForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_MultipleForms\obj\Debug\Chu_MultipleForms.Form1.resources
+C:\Users\maxwe\Desktop\IGME 201\Chu_MultipleForms\obj\Debug\Chu_MultipleForms.Properties.Resources.resources
+C:\Users\maxwe\Desktop\IGME 201\Chu_MultipleForms\obj\Debug\Chu_MultipleForms.csproj.GenerateResource.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_MultipleForms\obj\Debug\Chu_MultipleForms.csproj.CoreCompileInputs.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_MultipleForms\obj\Debug\Chu_MultipleForms.exe
+C:\Users\maxwe\Desktop\IGME 201\Chu_MultipleForms\obj\Debug\Chu_MultipleForms.pdb
+C:\Users\maxwe\Desktop\IGME 201\Chu_MultipleForms\obj\Debug\Chu_MultipleForms.GameForm.resources
