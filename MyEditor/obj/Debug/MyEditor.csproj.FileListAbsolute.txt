@@ -9,3 +9,4 @@ C:\Users\maxwe\Desktop\IGME 201\MyEditor\obj\Debug\MyEditor.csproj.GenerateResou
 C:\Users\maxwe\Desktop\IGME 201\MyEditor\obj\Debug\MyEditor.csproj.CoreCompileInputs.cache
 C:\Users\maxwe\Desktop\IGME 201\MyEditor\obj\Debug\MyEditor.exe
 C:\Users\maxwe\Desktop\IGME 201\MyEditor\obj\Debug\MyEditor.pdb
+C:\Users\maxwe\Desktop\IGME 201\MyEditor\obj\Debug\MyEditor.MyEditorParent.resources

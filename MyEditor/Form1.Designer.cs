@@ -61,9 +61,9 @@
             this.colorDialog = new System.Windows.Forms.ColorDialog();
             this.timer = new System.Windows.Forms.Timer(this.components);
             this.toolStripContainer1 = new System.Windows.Forms.ToolStripContainer();
+            this.countdownLabel = new System.Windows.Forms.Label();
             this.statusStrip1 = new System.Windows.Forms.StatusStrip();
             this.toolStripProgressBar1 = new System.Windows.Forms.ToolStripProgressBar();
-            this.countdownLabel = new System.Windows.Forms.Label();
             this.menuStrip1.SuspendLayout();
             this.toolStrip.SuspendLayout();
             this.contextMenuStrip.SuspendLayout();
@@ -83,6 +83,7 @@
             this.menuStrip1.Size = new System.Drawing.Size(800, 28);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
+            this.menuStrip1.Visible = false;
             // 
             // fileToolStripMenuItem
             // 
@@ -100,33 +101,33 @@
             // newToolStripMenuItem
             // 
             this.newToolStripMenuItem.Name = "newToolStripMenuItem";
-            this.newToolStripMenuItem.Size = new System.Drawing.Size(128, 26);
+            this.newToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.newToolStripMenuItem.Text = "&New";
             this.newToolStripMenuItem.ToolTipText = "New";
             // 
             // openToolStripMenuItem
             // 
             this.openToolStripMenuItem.Name = "openToolStripMenuItem";
-            this.openToolStripMenuItem.Size = new System.Drawing.Size(128, 26);
+            this.openToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.openToolStripMenuItem.Text = "&Open";
             this.openToolStripMenuItem.ToolTipText = "Open";
             // 
             // saveToolStripMenuItem
             // 
             this.saveToolStripMenuItem.Name = "saveToolStripMenuItem";
-            this.saveToolStripMenuItem.Size = new System.Drawing.Size(128, 26);
+            this.saveToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.saveToolStripMenuItem.Text = "&Save";
             this.saveToolStripMenuItem.ToolTipText = "Save";
             // 
             // toolStripSeparator1
             // 
             this.toolStripSeparator1.Name = "toolStripSeparator1";
-            this.toolStripSeparator1.Size = new System.Drawing.Size(125, 6);
+            this.toolStripSeparator1.Size = new System.Drawing.Size(221, 6);
             // 
             // exitToolStripMenuItem
             // 
             this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
-            this.exitToolStripMenuItem.Size = new System.Drawing.Size(128, 26);
+            this.exitToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.exitToolStripMenuItem.Text = "E&xit";
             this.exitToolStripMenuItem.ToolTipText = "Exit";
             // 
@@ -151,7 +152,7 @@
             // cutToolStripMenuItem
             // 
             this.cutToolStripMenuItem.Name = "cutToolStripMenuItem";
-            this.cutToolStripMenuItem.Size = new System.Drawing.Size(126, 26);
+            this.cutToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.cutToolStripMenuItem.Text = "&Cut";
             this.cutToolStripMenuItem.ToolTipText = "Cut";
             // 
@@ -267,7 +268,7 @@
             this.richTextBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox.Location = new System.Drawing.Point(0, 0);
             this.richTextBox.Name = "richTextBox";
-            this.richTextBox.Size = new System.Drawing.Size(800, 367);
+            this.richTextBox.Size = new System.Drawing.Size(800, 392);
             this.richTextBox.TabIndex = 0;
             this.richTextBox.Text = "";
             // 
@@ -319,12 +320,24 @@
             // 
             this.toolStripContainer1.ContentPanel.Controls.Add(this.countdownLabel);
             this.toolStripContainer1.ContentPanel.Controls.Add(this.richTextBox);
-            this.toolStripContainer1.ContentPanel.Size = new System.Drawing.Size(800, 367);
+            this.toolStripContainer1.ContentPanel.Size = new System.Drawing.Size(800, 392);
             this.toolStripContainer1.Location = new System.Drawing.Point(0, 31);
             this.toolStripContainer1.Name = "toolStripContainer1";
             this.toolStripContainer1.Size = new System.Drawing.Size(800, 417);
             this.toolStripContainer1.TabIndex = 1;
             this.toolStripContainer1.Text = "toolStripContainer1";
+            // 
+            // countdownLabel
+            // 
+            this.countdownLabel.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.countdownLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.countdownLabel.ForeColor = System.Drawing.Color.Red;
+            this.countdownLabel.Location = new System.Drawing.Point(0, 0);
+            this.countdownLabel.Name = "countdownLabel";
+            this.countdownLabel.Size = new System.Drawing.Size(800, 392);
+            this.countdownLabel.TabIndex = 1;
+            this.countdownLabel.Text = "3";
+            this.countdownLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // statusStrip1
             // 
@@ -343,18 +356,6 @@
             this.toolStripProgressBar1.Name = "toolStripProgressBar1";
             this.toolStripProgressBar1.Size = new System.Drawing.Size(700, 16);
             this.toolStripProgressBar1.Style = System.Windows.Forms.ProgressBarStyle.Continuous;
-            // 
-            // countdownLabel
-            // 
-            this.countdownLabel.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.countdownLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.countdownLabel.ForeColor = System.Drawing.Color.Red;
-            this.countdownLabel.Location = new System.Drawing.Point(0, 0);
-            this.countdownLabel.Name = "countdownLabel";
-            this.countdownLabel.Size = new System.Drawing.Size(800, 367);
-            this.countdownLabel.TabIndex = 1;
-            this.countdownLabel.Text = "3";
-            this.countdownLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // Form1
             // 
@@ -394,7 +395,6 @@
         private System.Windows.Forms.ToolStripMenuItem exitToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem editToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem copyToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem cutToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem pasteToolStripMenuItem;
         private System.Windows.Forms.ToolStrip toolStrip;
         private System.Windows.Forms.ToolStripButton boldToolStripButton;
@@ -419,6 +419,7 @@
         private System.Windows.Forms.Label countdownLabel;
         private System.Windows.Forms.StatusStrip statusStrip1;
         private System.Windows.Forms.ToolStripProgressBar toolStripProgressBar1;
+        public System.Windows.Forms.ToolStripMenuItem cutToolStripMenuItem;
     }
 }
 
