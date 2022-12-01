@@ -1,0 +1,11 @@
+C:\Users\maxwe\Desktop\IGME 201\CHU_UT3_Presidents\bin\Debug\CHU_UT3_Presidents.exe.config
+C:\Users\maxwe\Desktop\IGME 201\CHU_UT3_Presidents\bin\Debug\CHU_UT3_Presidents.exe
+C:\Users\maxwe\Desktop\IGME 201\CHU_UT3_Presidents\bin\Debug\CHU_UT3_Presidents.pdb
+C:\Users\maxwe\Desktop\IGME 201\CHU_UT3_Presidents\obj\Debug\CHU_UT3_Presidents.csproj.AssemblyReference.cache
+C:\Users\maxwe\Desktop\IGME 201\CHU_UT3_Presidents\obj\Debug\CHU_UT3_Presidents.csproj.SuggestedBindingRedirects.cache
+C:\Users\maxwe\Desktop\IGME 201\CHU_UT3_Presidents\obj\Debug\CHU_UT3_Presidents.Form1.resources
+C:\Users\maxwe\Desktop\IGME 201\CHU_UT3_Presidents\obj\Debug\CHU_UT3_Presidents.Properties.Resources.resources
+C:\Users\maxwe\Desktop\IGME 201\CHU_UT3_Presidents\obj\Debug\CHU_UT3_Presidents.csproj.GenerateResource.cache
+C:\Users\maxwe\Desktop\IGME 201\CHU_UT3_Presidents\obj\Debug\CHU_UT3_Presidents.csproj.CoreCompileInputs.cache
+C:\Users\maxwe\Desktop\IGME 201\CHU_UT3_Presidents\obj\Debug\CHU_UT3_Presidents.exe
+C:\Users\maxwe\Desktop\IGME 201\CHU_UT3_Presidents\obj\Debug\CHU_UT3_Presidents.pdb
