@@ -1,0 +1,13 @@
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT3_UIHell\bin\Debug\Chu_UT3_UIHell.exe.config
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT3_UIHell\bin\Debug\Chu_UT3_UIHell.exe
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT3_UIHell\bin\Debug\Chu_UT3_UIHell.pdb
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT3_UIHell\obj\Debug\Chu_UT3_UIHell.csproj.AssemblyReference.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT3_UIHell\obj\Debug\Chu_UT3_UIHell.csproj.SuggestedBindingRedirects.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT3_UIHell\obj\Debug\Chu_UT3_UIHell.Form1.resources
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT3_UIHell\obj\Debug\Chu_UT3_UIHell.Properties.Resources.resources
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT3_UIHell\obj\Debug\Chu_UT3_UIHell.csproj.GenerateResource.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT3_UIHell\obj\Debug\Chu_UT3_UIHell.csproj.CoreCompileInputs.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT3_UIHell\obj\Debug\Chu_UT3_UIHell.exe
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT3_UIHell\obj\Debug\Chu_UT3_UIHell.pdb
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT3_UIHell\obj\Debug\Chu_UT3_UIHell.Form2.resources
+C:\Users\maxwe\Desktop\IGME 201\Chu_UT3_UIHell\obj\Debug\Chu_UT3_UIHell.Form3.resources
