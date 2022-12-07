@@ -1,0 +1,8 @@
+C:\Users\maxwe\Desktop\IGME 201\Chu_FinalQ2\obj\Debug\Chu_FinalQ2.csproj.AssemblyReference.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_FinalQ2\obj\Debug\Chu_FinalQ2.csproj.SuggestedBindingRedirects.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_FinalQ2\obj\Debug\Chu_FinalQ2.csproj.CoreCompileInputs.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_FinalQ2\bin\Debug\Chu_FinalQ2.exe.config
+C:\Users\maxwe\Desktop\IGME 201\Chu_FinalQ2\bin\Debug\Chu_FinalQ2.exe
+C:\Users\maxwe\Desktop\IGME 201\Chu_FinalQ2\bin\Debug\Chu_FinalQ2.pdb
+C:\Users\maxwe\Desktop\IGME 201\Chu_FinalQ2\obj\Debug\Chu_FinalQ2.exe
+C:\Users\maxwe\Desktop\IGME 201\Chu_FinalQ2\obj\Debug\Chu_FinalQ2.pdb
