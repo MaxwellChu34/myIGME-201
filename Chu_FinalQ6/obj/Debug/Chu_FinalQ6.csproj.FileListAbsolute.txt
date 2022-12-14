@@ -1,0 +1,11 @@
+C:\Users\maxwe\Desktop\IGME 201\Chu_FinalQ6\bin\Debug\Chu_FinalQ6.exe.config
+C:\Users\maxwe\Desktop\IGME 201\Chu_FinalQ6\bin\Debug\Chu_FinalQ6.exe
+C:\Users\maxwe\Desktop\IGME 201\Chu_FinalQ6\bin\Debug\Chu_FinalQ6.pdb
+C:\Users\maxwe\Desktop\IGME 201\Chu_FinalQ6\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maxwe\Desktop\IGME 201\Chu_FinalQ6\bin\Debug\Newtonsoft.Json.xml
+C:\Users\maxwe\Desktop\IGME 201\Chu_FinalQ6\obj\Debug\Chu_FinalQ6.csproj.AssemblyReference.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_FinalQ6\obj\Debug\Chu_FinalQ6.csproj.SuggestedBindingRedirects.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_FinalQ6\obj\Debug\Chu_FinalQ6.csproj.CoreCompileInputs.cache
+C:\Users\maxwe\Desktop\IGME 201\Chu_FinalQ6\obj\Debug\Chu_FinalQ6.csproj.CopyComplete
+C:\Users\maxwe\Desktop\IGME 201\Chu_FinalQ6\obj\Debug\Chu_FinalQ6.exe
+C:\Users\maxwe\Desktop\IGME 201\Chu_FinalQ6\obj\Debug\Chu_FinalQ6.pdb
